@@ -1,4 +1,4 @@
-BODY {
+body {
 	background-image: url(MainPageBackground.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -7,14 +7,14 @@ BODY {
 	font-size: 30px;
 }
 
-P {
+p {
 	position: absolute;
 	top: 0.1em;
 	left: 1.3em;
 	color: -webkit-link;
 }
 
-DIV {
+div {
 	position: absolute;
 	top: 0.4em;
 	right: 0.6em;
